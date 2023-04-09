@@ -1,0 +1,14 @@
+.header{
+    height: 12%;
+    width: 100%;
+    background-color: black;
+}
+
+.heading{
+    font-size: 2.5rem;
+    color: gray;
+}
+
+.header p{
+    color: gray;
+}
