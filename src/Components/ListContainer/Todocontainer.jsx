@@ -28,7 +28,6 @@ const Todocontainer = () => {
                     ele.checked = false
                     setChecked(e.target.checked)
                 }
-                console.log(e.target.checked);
             }} type="checkbox" />
 
             {ele.booleanValue ? (
